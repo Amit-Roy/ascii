@@ -52,6 +52,7 @@ public class ASCII {
         frame.setVisible(true);
         frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 
+
         area = new JTextArea();
         area.setRows(1000);
         area.setColumns(1000);
